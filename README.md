@@ -65,8 +65,4 @@ Kullanıcılar:
 # Proje Mimarisi
 
 ```text
-Angular Frontend
-       ↓
-Spring Boot REST API
-       ↓
-PostgreSQL Database
+Angular Frontend --> Spring Boot REST API --> PostgreSQL Database
