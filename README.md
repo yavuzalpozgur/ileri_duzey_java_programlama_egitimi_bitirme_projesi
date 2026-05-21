@@ -1,4 +1,4 @@
-# EventApp 🎉
+# EventApp 
 
 EventApp, Angular 17 ve Spring Boot kullanılarak geliştirilmiş modern bir etkinlik yönetim sistemidir.
 
